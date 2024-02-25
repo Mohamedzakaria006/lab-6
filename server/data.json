@@ -1,0 +1,17 @@
+{
+  "products": [],
+  "categories": [
+    {
+      "name": "clothes",
+      "id": "8bb3"
+    },
+    {
+      "name": "shoes",
+      "id": "0051"
+    },
+    {
+      "name": "skinCare",
+      "id": "2714"
+    }
+  ]
+}
